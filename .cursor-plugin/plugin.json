@@ -1,0 +1,14 @@
+{
+  "name": "dial",
+  "version": "1.0.0",
+  "description": "Give your agent a real phone number: send SMS, iMessage and WhatsApp, place AI-handled voice calls, and react to inbound messages and calls.",
+  "author": {
+    "name": "Dial",
+    "email": "support@getdial.ai"
+  },
+  "homepage": "https://getdial.ai",
+  "repository": "https://github.com/GetDial-AI/cursor-plugin",
+  "license": "MIT",
+  "keywords": ["mcp", "phone", "sms", "imessage", "whatsapp", "voice", "calls", "otp", "2fa", "communication"],
+  "logo": "assets/logo.svg"
+}
